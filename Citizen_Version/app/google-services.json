@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "638654400734",
+    "firebase_url": "https://citizenversion.firebaseio.com",
+    "project_id": "citizenversion",
+    "storage_bucket": "citizenversion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638654400734:android:eeaec9205d21cb1d",
+        "android_client_info": {
+          "package_name": "com.example.android.logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638654400734-7v617l1fakgo6pn5pd46ha2va8aaak96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp4gwlIg95lT0ly3gCY7BOx6ENKF9AtOI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
