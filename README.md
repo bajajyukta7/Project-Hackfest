@@ -13,12 +13,12 @@ To run the project:
 2. Open android studio and build new projects
 3. Import Citizen version
 4. Build the app and it can be launched in your phone using usb cable or on android simulator
-5. Follow similar steps for project version.
+5. Follow similar steps for police version.
 
 Working of App:
-1. Citizen uploads the picture of any suspicious person roaming around with a small description about him.
-2. App checks if the picture matches with any Person in Criminal or Missing databse.
+1. Citizens can upload the picture of any suspicious person roaming around with a small description about him.
+2. App checks if the picture matches with any person in Criminal or Missing databse.
 3. If a match is found an alert is sent to nearest police station along with the location .
-4. Further, Police can take necessary actions.
+4. Further, the police can take necessary actions.
 Working of App can be seen on link provided below :
 Youtube Link : https://www.youtube.com/watch?v=j2a6lfPD1wM
